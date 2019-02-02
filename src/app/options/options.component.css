@@ -1,0 +1,10 @@
+input{
+    width: 33.3%;
+    
+    padding:  10px 24px;
+    font-family: 'Courier New', Courier, monospace;
+    float: left;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+}
